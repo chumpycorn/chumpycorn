@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Liang 👋
 
-<!--
-**chumpycorn/chumpycorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student Programmer**  
+💻 Learning **C++** and **Python**  
+🏆 Active in Competitive Programming (USACO, Codeforces)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔥 Passionate about algorithms and problem-solving  
+- 📚 Currently practicing for **USACO Bronze/Silver**  
+- ⚡ I enjoy learning new coding techniques and improving every day
+
+---
+
+### 🛠️ Languages & Tools
+- **C++** (main for competitive programming)
+- **Python** (automation & quick scripts)
+- Git / GitHub  
+- VS Code
+
+---
+
+### 📈 Competitive Programming
+- 🐮 **USACO participant**  
+- ⚔️ **Codeforces contestant**  
+- 📌 I like solving problems on AtCoder, CSES, and other platforms
+
+---
+
+### 📫 Contact
+Feel free to connect or check out my projects!
+
