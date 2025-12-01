@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Corn 👋
-
+#make sure to check out the games i am currently working on.
 🎓 **Student Developer**
 💻 Building **GUI applications** with **SDL2** + **OpenGL**
 ⚙️ Primarily a **C++ Programmer**
