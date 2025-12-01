@@ -1,33 +1,44 @@
-# Hi, I'm Liang 👋
 
-🎓 **Student Programmer**  
-💻 Learning **C++** and **Python**  
-🏆 Active in Competitive Programming (USACO, Codeforces)
+
+# Hi, I'm Corn 👋
+
+🎓 **Student Developer**
+💻 Building **GUI applications** with **SDL2** + **OpenGL**
+⚙️ Primarily a **C++ Programmer**
 
 ---
 
 ### 🚀 About Me
-- 🔥 Passionate about algorithms and problem-solving  
-- 📚 Currently practicing for **USACO Bronze/Silver**  
-- ⚡ I enjoy learning new coding techniques and improving every day
+
+* 🔥 Currently diving deep into **graphics programming** and **engine-like systems**
+* 🧱 Building cross-platform GUI tools and interactive apps
+* 🎮 Interested in game frameworks, rendering pipelines, and low-level performance
+* 💡 Always improving and exploring modern C++ techniques
 
 ---
 
 ### 🛠️ Languages & Tools
-- **C++** (main for competitive programming)
-- **Python** (automation & quick scripts)
-- Git / GitHub  
-- VS Code
+
+* **C++ (primary)** — graphics, apps, performance-critical code
+* **SDL2** — windowing, input, 2D rendering
+* **OpenGL** — real-time graphics & rendering
+* **CMake** — project structure & builds
+* **Python** — quick utilities and scripts
+* Git / GitHub
+* VS Code / CLion
 
 ---
 
-### 📈 Competitive Programming
-- 🐮 **USACO participant**  
-- ⚔️ **Codeforces contestant**  
-- 📌 I like solving problems on AtCoder, CSES, and other platforms
+### 📈 Dev Interests
+
+* 🖥️ GUI frameworks & custom UI
+* 🎮 Rendering, shaders, engine systems
+* 🧩 Performance and low-level design
+* 📦 Cross-platform build systems & tooling
 
 ---
 
 ### 📫 Contact
-Feel free to connect or check out my projects!
 
+Happy to connect, collaborate, or discuss graphics/C++ projects!
+email:pangpeter876@gmail.com
